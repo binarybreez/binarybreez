@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Rishabh
 
 ## 👨‍💻 Full Stack Developer | 🌐 Web Enthusiast | 📱 App Developer
 
