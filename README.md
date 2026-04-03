@@ -5,7 +5,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/">
+  <a href="https://www.linkedin.com/in/rishabh-kushwah-a819b4296/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/binarybreez">
