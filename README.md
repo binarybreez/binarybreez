@@ -53,7 +53,6 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat-square)
 
 ---
----
 
 ## 🔥 Featured Work
 
