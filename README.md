@@ -63,13 +63,6 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ---
 
-###  Graph RAG Phishing Detection
-- Real-time phishing detection system
-- Behavioral analysis using Graph RAG
-- Designed for **enterprise-level threat monitoring**
-
----
-
 ###  ERP System (Voidhacks — 1st Place)
 - Built full ERP system in **36 hours**
 - MERN stack with production-ready features
