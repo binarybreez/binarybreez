@@ -53,22 +53,6 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat-square)
 
 ---
-
-## 🧪 Professional Proof Points
-
-### 🌍 University of Valencia (International Internship)
-- Led GenAI / RAG development using FastAPI
-- Built scalable backend systems for AI content platform
-- **Handled critical server compromise (CVE vulnerability)**
-- Secured and rebuilt system using Docker-based isolation
-
----
-
-### 🔐 Indore Commissionerate (Cybersecurity Work)
-- Worked on cyber fraud investigations
-- Analyzed attacker behavior and fraud patterns
-- Built strong **security-first engineering mindset**
-
 ---
 
 ## 🔥 Featured Work
