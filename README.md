@@ -27,7 +27,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### AI & RAG
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
@@ -54,37 +54,37 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ---
 
-## 🔥 Featured Work
+##  Featured Work
 
-### 🧠 RAG Web Scraping Pipeline
+###  RAG Web Scraping Pipeline
 - Built pipelines to scrape **dynamic JS-heavy websites**
 - Structured and indexed data for AI systems
 - Focus on **latency optimization and reliability**
 
 ---
 
-### 🔐 Graph RAG Phishing Detection
+###  Graph RAG Phishing Detection
 - Real-time phishing detection system
 - Behavioral analysis using Graph RAG
 - Designed for **enterprise-level threat monitoring**
 
 ---
 
-### 🏢 ERP System (Voidhacks — 1st Place)
+###  ERP System (Voidhacks — 1st Place)
 - Built full ERP system in **36 hours**
 - MERN stack with production-ready features
 - Demonstrates **high-speed execution under pressure**
 
 ---
 
-### 🍷 Wine SaaS Platform
+###  Wine SaaS Platform
 - B2B SaaS system with monorepo architecture
 - Built using Turborepo + Next.js + backend services
 - Focus on scalability and modular design
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=binarybreez&show_icons=true&theme=dark" />
@@ -94,14 +94,14 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ---
 
-## ✍️ Technical Writing
+##  Technical Writing
 
 <!-- Replace with your blog later -->
 - Coming soon: Deep-dives on RAG systems, scraping pipelines, and backend scaling
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Building **Agentic RAG systems**
 - Optimizing **low-latency backend pipelines**
@@ -109,11 +109,11 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rishabh-kushwah-a819b4296/)
-- 🧠 [Blog](https://hashnode.com/@rishabh-kushwah)
-- 📧 [Email](rishabh04kushwah@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/rishabh-kushwah-a819b4296/)
+-  [Blog](https://hashnode.com/@rishabh-kushwah)
+-  [Email](rishabh04kushwah@gmail.com)
 
 ---
 
