@@ -18,7 +18,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 - RAG pipelines using **real-time scraped data** (Playwright, Selenium)
 - Backend systems with **FastAPI, Redis, PostgreSQL**
