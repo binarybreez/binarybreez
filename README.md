@@ -91,12 +91,6 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 - [binarybreez/technexNMIMS](https://github.com/binarybreez/technexNMIMS) - Repository for the technex .execute hackathon by team BinaryBreez.
 - [binarybreez/Remotion-Video](https://github.com/binarybreez/Remotion-Video) - 
 - [binarybreez/Binary-Breez](https://github.com/binarybreez/Binary-Breez) - SnowHacks CDGI
-- [binarybreez/civicweb](https://github.com/binarybreez/civicweb) - 
-- [binarybreez/extract2analyze](https://github.com/binarybreez/extract2analyze) - A tool to scrape data and clean it .
-- [binarybreez/nabhaApp](https://github.com/binarybreez/nabhaApp) - 
-- [binarybreez/fastapiServer](https://github.com/binarybreez/fastapiServer) - 
-- [binarybreez/Job_tinder](https://github.com/binarybreez/Job_tinder) - 
-
 ### 🌱 My latest projects
 
 - [binarybreez/portfolio](https://github.com/binarybreez/portfolio) - 
@@ -104,14 +98,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 - [binarybreez/technexNMIMS](https://github.com/binarybreez/technexNMIMS) - Repository for the technex .execute hackathon by team BinaryBreez.
 - [binarybreez/Remotion-Video](https://github.com/binarybreez/Remotion-Video) - 
 - [binarybreez/Binary-Breez](https://github.com/binarybreez/Binary-Breez) - SnowHacks CDGI
-- [binarybreez/AIConGen](https://github.com/binarybreez/AIConGen) - 
-- [binarybreez/civicweb](https://github.com/binarybreez/civicweb) - 
-- [binarybreez/data-pipeline-analytics](https://github.com/binarybreez/data-pipeline-analytics) - 
-- [binarybreez/fingerprint-quality-scorer](https://github.com/binarybreez/fingerprint-quality-scorer) - 
-- [binarybreez/face-expression-check](https://github.com/binarybreez/face-expression-check) - 
-
 ### 🔨 My recent Pull Requests
-
 
 ### ⭐ Recent Stars
 
