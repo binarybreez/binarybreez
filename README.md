@@ -5,31 +5,60 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 </p>
 
 ### Socials
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/rishabh-kushwah-a819b4296/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" /> 
-  </a> 
-  <a href="https://github.com/binarybreez" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" /> 
-  </a> 
-  <a href="https://hashnode.com/@rishabh-kushwah" target="_blank" rel="noreferrer"> 
-    <img src="https://iconape.com/wp-content/png_logo_vector/hashnode-logo.png" alt="Hashnode" width="32" height="32" /> 
-  </a> 
+
+<p align="left">
   
-  <a href="https://dev.to/YOUR_USERNAME" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/devdotto" alt="Dev.to" width="32" height="32" style="background-color: white; border-radius: 4px;" /> 
+  <a href="https://www.linkedin.com/in/rishabh-kushwah-a819b4296/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    </picture>
   </a>
   
-  <a href="https://medium.com/@YOUR_USERNAME" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/medium" alt="Medium" width="32" height="32" style="background-color: white; border-radius: 4px;" /> 
+  
+  <a href="https://github.com/binarybreez" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    </picture>
   </a>
   
-  <a href="https://YOUR_USERNAME.substack.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/substack/FF6719" alt="Substack" width="32" height="32" /> 
+  
+  <a href="https://hashnode.com/@rishabh-kushwah" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" />
+    </picture>
   </a>
   
-  <a href="https://x.com/YOUR_USERNAME" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/x" alt="X" width="32" height="32" style="background-color: white; border-radius: 4px; padding: 2px;" /> 
+  
+  <a href="https://dev.to/YOUR_USERNAME" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devto-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devto.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devto.svg" width="32" height="32" alt="Dev.to" />
+    </picture>
+  </a>
+  
+  
+  <a href="https://medium.com/@YOUR_USERNAME" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
+    </picture>
+  </a>
+  
+  
+  <a href="https://x.com/YOUR_USERNAME" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X (Twitter)" />
+    </picture>
   </a>
 </p>
 
@@ -112,7 +141,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 <p align="left">
   
-  <img src="./github-metrics.svg" alt="Rishabh's GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="Rishabh's GitHub Metrics"/>
 </p>
 
 <hr/>
