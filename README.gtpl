@@ -21,23 +21,17 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 10 }}
-  {{ if not .Repo.Private }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-  {{ end }}
 {{- end }}
 
 ### 🌱 My latest projects
 {{ range recentRepos 10 }}
-  {{ if not .Private }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-  {{ end }}
 {{- end }}
 
 ### 🔨 My recent Pull Requests
 {{ range recentPullRequests 10 }}
-  {{ if not .Repo.Private }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-  {{ end }}
 {{- end }}
 
 ### ⭐ Recent Stars
