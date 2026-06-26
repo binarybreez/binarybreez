@@ -19,9 +19,10 @@ jobs:
           ref: ${{ github.head_ref || github.ref_name }}
 
       - name: Generate README
-        uses: muesli/readme-scribe@master   # ✨ FIXED: Pointed to the actual action name
+        uses: muesli/readme-scribe@master   
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          # ✨ FIXED: Changed key from GITHUB_TOKEN to PERSONAL_GITHUB_TOKEN
+          PERSONAL_GITHUB_TOKEN: ${{ secrets.GH_PAT }} 
         with:
           template: README.gtpl
           writeTo: README.md
@@ -31,3 +32,6 @@ jobs:
         with:
           commit_message: "chore: update dynamic github statistics"
           file_pattern: "README.md"
+          # ✨ OPTIONAL: Explicitly fallback to GitHub's automation identity
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
