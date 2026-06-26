@@ -33,13 +33,6 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
   </a>
 </p>
 
-### GitHub Stats
-
-<p align="left">
-  
-  <img src="https://githubusercontent.com" alt="Rishabh's GitHub Metrics" width="100%" />
-</p>
-
 ### 👷 Check out what I'm currently working on
 
 - [binarybreez/portfolio](https://github.com/binarybreez/portfolio) - 
