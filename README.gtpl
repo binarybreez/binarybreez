@@ -14,7 +14,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
     </picture>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp
   
   <!-- GitHub -->
   <a href="https://github.com/binarybreez" target="_blank" rel="noreferrer">
@@ -23,7 +23,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </picture>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp
   
   <!-- Hashnode -->
   <a href="https://hashnode.com/@rishabh-kushwah" target="_blank" rel="noreferrer">
@@ -32,7 +32,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" />
     </picture>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp
   
   <!-- X (Twitter) -->
   <a href="https://x.com/YOUR_USERNAME" target="_blank" rel="noreferrer">
@@ -45,6 +45,11 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 </p>
 
 ---
+
+<p align="center">
+  <!-- Pulls your local generated metrics infographic card -->
+  <img src="./github-metrics.svg" alt="Rishabh's GitHub Metrics"/>
+</p>
 
 ## 🚀 Core Focus & Philosophy
 
@@ -79,11 +84,6 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ---
 
-<p align="center">
-  <!-- Pulls your local generated metrics infographic card -->
-  <img src="./github-metrics.svg" alt="Rishabh's GitHub Metrics"/>
-</p>
-
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 10 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
@@ -109,8 +109,6 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 * **Coming Soon:** Deep-dives exploring production RAG performance bottlenecks, automated scraping bypass strategies, and multi-tier backend reliability metrics.
 
 ---
-
-<hr/>
 
 <p align="center">
   <i>Building systems that work in real-world conditions — not just demos.</i>
