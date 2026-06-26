@@ -44,26 +44,6 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
   </a>
 </p>
 
-### 👷 Check out what I'm currently working on
-{{ range recentContributions 10 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
-### 🌱 My latest projects
-{{ range recentRepos 10 }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-{{- end }}
-
-### 🔨 My recent Pull Requests
-{{ range recentPullRequests 10 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
-
-### ⭐ Recent Stars
-{{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
 ---
 
 ## 🚀 Core Focus & Philosophy
@@ -99,15 +79,36 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ---
 
-## ✍️ Technical Writing
-* **Coming Soon:** Deep-dives exploring production RAG performance bottlenecks, automated scraping bypass strategies, and multi-tier backend reliability metrics.
-
----
-
 <p align="center">
   <!-- Pulls your local generated metrics infographic card -->
   <img src="./github-metrics.svg" alt="Rishabh's GitHub Metrics"/>
 </p>
+
+### 👷 Check out what I'm currently working on
+{{ range recentContributions 10 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
+
+### 🌱 My latest projects
+{{ range recentRepos 10 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
+
+### 🔨 My recent Pull Requests
+{{ range recentPullRequests 10 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
+
+### ⭐ Recent Stars
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
+
+
+## ✍️ Technical Writing
+* **Coming Soon:** Deep-dives exploring production RAG performance bottlenecks, automated scraping bypass strategies, and multi-tier backend reliability metrics.
+
+---
 
 <hr/>
 
