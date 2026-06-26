@@ -14,7 +14,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
     </picture>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp
   
   
   <a href="https://github.com/binarybreez" target="_blank" rel="noreferrer">
@@ -23,7 +23,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </picture>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp
   
   
   <a href="https://hashnode.com/@rishabh-kushwah" target="_blank" rel="noreferrer">
@@ -32,7 +32,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" />
     </picture>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp
   
   
   <a href="https://x.com/YOUR_USERNAME" target="_blank" rel="noreferrer">
@@ -45,6 +45,11 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 </p>
 
 ---
+
+<p align="center">
+  
+  <img src="./github-metrics.svg" alt="Rishabh's GitHub Metrics"/>
+</p>
 
 ## 🚀 Core Focus & Philosophy
 
@@ -78,11 +83,6 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 * Used Turborepo coupled with server-rendered Next.js entrypoints to scale component design lines linearly.
 
 ---
-
-<p align="center">
-  
-  <img src="./github-metrics.svg" alt="Rishabh's GitHub Metrics"/>
-</p>
 
 ### 👷 Check out what I'm currently working on
 
@@ -126,8 +126,6 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 * **Coming Soon:** Deep-dives exploring production RAG performance bottlenecks, automated scraping bypass strategies, and multi-tier backend reliability metrics.
 
 ---
-
-<hr/>
 
 <p align="center">
   <i>Building systems that work in real-world conditions — not just demos.</i>
