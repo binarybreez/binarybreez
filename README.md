@@ -121,7 +121,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ---
 
-<p align="left">
+<p align="center">
   
   <img src="./github-metrics.svg" alt="Rishabh's GitHub Metrics"/>
 </p>
