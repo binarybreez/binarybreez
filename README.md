@@ -1,114 +1,107 @@
-<h1 align="center">Hi, I'm Rishabh — Full-Stack AI & Security Engineer</h1>
+<h1 align="center">Hi, I'm Rishabh — Full-Stack AI & Security Engineer </h1>
 
 <p align="center">
 Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backend Architecture | Cyber Forensics
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishabh-kushwah-a819b4296/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/binarybreez">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
-  </a>
-  <a href="your.portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-success?style=flat-square" />
-  </a>
+### Socials
+
+<p align="left"> 
+<a href="https://linkedin.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" /> <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" /> <img src="https://githubusercontent.com" width="32" height="32" /> </picture> </a> 
+<a href="https://github.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" /> <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" /> <img src="https://githubusercontent.com" width="32" height="32" /> </picture> </a> 
+<a href="https://hashnode.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" /> <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" /> <img src="https://githubusercontent.com" width="32" height="32" /> </picture> </a> 
 </p>
 
----
+### GitHub Stats
 
-## What I Build
-
-- RAG pipelines using **real-time scraped data** (Playwright, Selenium)
-- Backend systems with **FastAPI, Redis, PostgreSQL**
-- AI-powered applications with focus on **performance, latency, and reliability**
-- Security-first systems inspired by **real-world cyber investigations**
-
----
-
-##  Tech Stack
-
-### AI & RAG
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
-![Graph RAG](https://img.shields.io/badge/Graph%20RAG-grey?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-blue?style=flat-square)
-
-### Full-Stack & Architecture
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![Turborepo](https://img.shields.io/badge/Turborepo-grey?style=flat-square)
-![Monorepo](https://img.shields.io/badge/Monorepo-Architecture-blue?style=flat-square)
-
-### Infrastructure & Security
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker)
-![Redis](https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql)
-![CVE](https://img.shields.io/badge/CVE-Mitigation-critical?style=flat-square)
-
-### Web Scraping
-![Playwright](https://img.shields.io/badge/Playwright-black?style=flat-square)
-![Selenium](https://img.shields.io/badge/Selenium-green?style=flat-square)
-
----
-
-##  Featured Work
-
-###  RAG Web Scraping Pipeline
-- Built pipelines to scrape **dynamic JS-heavy websites**
-- Structured and indexed data for AI systems
-- Focus on **latency optimization and reliability**
-
----
-
-###  ERP System (Voidhacks — 1st Place)
-- Built full ERP system in **36 hours**
-- MERN stack with production-ready features
-- Demonstrates **high-speed execution under pressure**
-
----
-
-###  Wine SaaS Platform
-- B2B SaaS system with monorepo architecture
-- Built using Turborepo + Next.js + backend services
-- Focus on scalability and modular design
-
----
-
-##  GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binarybreez&show_icons=true&theme=dark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarybreez&theme=dark" />
+<p align="left">
+  
+  <img src="https://githubusercontent.com" alt="Rishabh's GitHub Metrics" width="100%" />
 </p>
 
+### 👷 Check out what I'm currently working on
+
+- [binarybreez/portfolio](https://github.com/binarybreez/portfolio) - 
+- [binarybreez/prayatna3.0](https://github.com/binarybreez/prayatna3.0) - 
+- [binarybreez/technexNMIMS](https://github.com/binarybreez/technexNMIMS) - Repository for the technex .execute hackathon by team BinaryBreez.
+- [binarybreez/Remotion-Video](https://github.com/binarybreez/Remotion-Video) - 
+- [binarybreez/Binary-Breez](https://github.com/binarybreez/Binary-Breez) - SnowHacks CDGI
+- [binarybreez/civicweb](https://github.com/binarybreez/civicweb) - 
+- [binarybreez/extract2analyze](https://github.com/binarybreez/extract2analyze) - A tool to scrape data and clean it .
+- [binarybreez/nabhaApp](https://github.com/binarybreez/nabhaApp) - 
+- [binarybreez/fastapiServer](https://github.com/binarybreez/fastapiServer) - 
+- [binarybreez/Job_tinder](https://github.com/binarybreez/Job_tinder) - 
+
+### 🌱 My latest projects
+
+- [binarybreez/portfolio](https://github.com/binarybreez/portfolio) - 
+- [binarybreez/prayatna3.0](https://github.com/binarybreez/prayatna3.0) - 
+- [binarybreez/technexNMIMS](https://github.com/binarybreez/technexNMIMS) - Repository for the technex .execute hackathon by team BinaryBreez.
+- [binarybreez/Remotion-Video](https://github.com/binarybreez/Remotion-Video) - 
+- [binarybreez/Binary-Breez](https://github.com/binarybreez/Binary-Breez) - SnowHacks CDGI
+- [binarybreez/AIConGen](https://github.com/binarybreez/AIConGen) - 
+- [binarybreez/civicweb](https://github.com/binarybreez/civicweb) - 
+- [binarybreez/data-pipeline-analytics](https://github.com/binarybreez/data-pipeline-analytics) - 
+- [binarybreez/fingerprint-quality-scorer](https://github.com/binarybreez/fingerprint-quality-scorer) - 
+- [binarybreez/face-expression-check](https://github.com/binarybreez/face-expression-check) - 
+
+### 🔨 My recent Pull Requests
+
+
+### ⭐ Recent Stars
+
+- [binarybreez/Job_tinder](https://github.com/binarybreez/Job_tinder) - 
+- [binarybreez/nabhaApp](https://github.com/binarybreez/nabhaApp) - 
+- [binarybreez/RecommendationEngine](https://github.com/binarybreez/RecommendationEngine) - 
+- [binarybreez/hiddenWords](https://github.com/binarybreez/hiddenWords) - Anonymous Feedback allows users to receive anonymous messages through a unique URL, with AI-powered suggestions and secure login via email OTP and encrypted passwords.
+- [binarybreez/LearnSphere](https://github.com/binarybreez/LearnSphere) - LearnSphere is an innovative online learning platform designed for both teachers and students. It offers an intuitive interface for teachers to create, manage, and track courses, while students can easily enroll, track progress, and engage with lessons.
+
 ---
 
-##  Technical Writing
+## 🚀 Core Focus & Philosophy
 
-<!-- Replace with your blog later -->
-- Coming soon: Deep-dives on RAG systems, scraping pipelines, and backend scaling
-
----
-
-##  Current Focus
-
-- Building **Agentic RAG systems**
-- Optimizing **low-latency backend pipelines**
-- Designing **secure AI architectures**
+- 🤖 **Agentic RAG Platforms** — Designing scalable context-aware AI systems that act autonomously on live datasets.
+- ⚡ **Low-Latency Architecture** — Engineering real-time scraping systems (Playwright/Selenium) tightly decoupled from backend execution flows.
+- 🔒 **Security-First Systems** — Hardening application code layers against modern exploits and prompt-injection logic.
 
 ---
 
-##  Connect With Me
+## 🛠️ Technical Stack
 
--  [LinkedIn](https://www.linkedin.com/in/rishabh-kushwah-a819b4296/)
--  [Blog](https://hashnode.com/@rishabh-kushwah)
--  [Email](rishabh04kushwah@gmail.com)
+- **AI & RAG:** Graph RAG | HuggingFace Models | Gemini API Core Interfaces | Vector Embeddings
+- **Full-Stack Ecosystem:** Next.js | React | FastAPI (Python) | Monorepo Environments (Turborepo)
+- **Infrastructure & DB:** Docker Containers | Redis Caching Layers | PostgreSQL Production Clusters
+- **Web Automation:** Headless Playwright Infrastructure | Multi-threaded Selenium Scrapers
 
 ---
+
+## 📁 Featured Work
+
+### 🛠️ RAG Web Scraping Pipeline
+* Built resilient distributed scrapers targeting highly dynamic, client-rendered JavaScript ecosystems.
+* Extracted, sanitized, and structured messy data payloads for sub-second vector index generation.
+
+### 🏆 ERP System (Voidhacks — 1st Place)
+* Shipped a full-fledged, multi-tenant enterprise resource software stack completely within a tight **36-hour timeframe**.
+* Handled full-stack mechanics inside a robust MERN cluster setup optimized under intense timeline conditions.
+
+### 🍇 Wine SaaS Platform
+* Architected a complete microservice layer leveraging isolated, easily maintainable workspaces under a global Monorepo.
+* Used Turborepo coupled with server-rendered Next.js entrypoints to scale component design lines linearly.
+
+---
+
+## ✍️ Technical Writing
+* **Coming Soon:** Deep-dives exploring production RAG performance bottlenecks, automated scraping bypass strategies, and multi-tier backend reliability metrics.
+
+---
+
+## 📫 Connect With Me
+- **Portfolio:** [://portfolio.com](http://://portfolio.com)
+- **Blog:** [://hashnode.com](https://hashnode.com)
+- **Email:** rishabh04kushwah@gmail.com
+
+<hr/>
 
 <p align="center">
   <i>Building systems that work in real-world conditions — not just demos.</i>
