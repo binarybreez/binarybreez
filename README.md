@@ -5,11 +5,32 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 </p>
 
 ### Socials
-
 <p align="left"> 
-<a href="https://linkedin.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" /> <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" /> <img src="https://githubusercontent.com" width="32" height="32" /> </picture> </a> 
-<a href="https://github.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" /> <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" /> <img src="https://githubusercontent.com" width="32" height="32" /> </picture> </a> 
-<a href="https://hashnode.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" /> <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" /> <img src="https://githubusercontent.com" width="32" height="32" /> </picture> </a> 
+  <a href="https://www.linkedin.com/in/rishabh-kushwah-a819b4296/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" /> 
+  </a> 
+  <a href="https://github.com/binarybreez" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" /> 
+  </a> 
+  <a href="https://hashnode.com/@rishabh-kushwah" target="_blank" rel="noreferrer"> 
+    <img src="https://iconape.com/wp-content/png_logo_vector/hashnode-logo.png" alt="Hashnode" width="32" height="32" /> 
+  </a> 
+  
+  <a href="https://dev.to/YOUR_USERNAME" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/devdotto" alt="Dev.to" width="32" height="32" style="background-color: white; border-radius: 4px;" /> 
+  </a>
+  
+  <a href="https://medium.com/@YOUR_USERNAME" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/medium" alt="Medium" width="32" height="32" style="background-color: white; border-radius: 4px;" /> 
+  </a>
+  
+  <a href="https://YOUR_USERNAME.substack.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/substack/FF6719" alt="Substack" width="32" height="32" /> 
+  </a>
+  
+  <a href="https://x.com/YOUR_USERNAME" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/x" alt="X" width="32" height="32" style="background-color: white; border-radius: 4px; padding: 2px;" /> 
+  </a>
 </p>
 
 ### GitHub Stats
@@ -96,10 +117,10 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ---
 
-## 📫 Connect With Me
-- **Portfolio:** [://portfolio.com](http://://portfolio.com)
-- **Blog:** [://hashnode.com](https://hashnode.com)
-- **Email:** rishabh04kushwah@gmail.com
+<p align="left">
+  
+  <img src="./github-metrics.svg" alt="Rishabh's GitHub Metrics" width="100%" />
+</p>
 
 <hr/>
 
