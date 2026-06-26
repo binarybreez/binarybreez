@@ -21,7 +21,7 @@ jobs:
       - name: Generate README
         uses: muesli/readme-scribe@master   # ✨ FIXED: Pointed to the actual action name
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           template: README.gtpl
           writeTo: README.md
