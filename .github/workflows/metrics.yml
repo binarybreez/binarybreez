@@ -1,0 +1,35 @@
+name: Generate Infographics
+
+on:
+  schedule: 
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+  push: 
+    branches: ["master", "main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: metrics-update
+      cancel-in-progress: true
+    steps:
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_PAT }}
+          user: binarybreez
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_gists: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_traffic: yes
