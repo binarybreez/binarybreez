@@ -10,16 +10,20 @@ on:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
 
       - name: Generate README
-        uses: muesli/markscribe-action@master
+        uses: muesli/readme-scribe@master   # ✨ FIXED: Pointed to the actual action name
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          template: readme.gtpl
+          template: README.gtpl
           writeTo: README.md
 
       - name: Commit and Push Changes
