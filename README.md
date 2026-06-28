@@ -108,6 +108,12 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 - [binarybreez/hiddenWords](https://github.com/binarybreez/hiddenWords) - Anonymous Feedback allows users to receive anonymous messages through a unique URL, with AI-powered suggestions and secure login via email OTP and encrypted passwords.
 - [binarybreez/LearnSphere](https://github.com/binarybreez/LearnSphere) - LearnSphere is an innovative online learning platform designed for both teachers and students. It offers an intuitive interface for teachers to create, manage, and track courses, while students can easily enroll, track progress, and engage with lessons.
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binarybreez/binarybreez/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binarybreez/binarybreez/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/binarybreez/binarybreez/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
 
 ## ✍️ Technical Writing
 * **Coming Soon:** Deep-dives exploring production RAG performance bottlenecks, automated scraping bypass strategies, and multi-tier backend reliability metrics.
