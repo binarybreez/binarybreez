@@ -101,6 +101,12 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binarybreez/binarybreez/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binarybreez/binarybreez/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/binarybreez/binarybreez/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
 
 ## ✍️ Technical Writing
 * **Coming Soon:** Deep-dives exploring production RAG performance bottlenecks, automated scraping bypass strategies, and multi-tier backend reliability metrics.
