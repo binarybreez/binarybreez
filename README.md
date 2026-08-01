@@ -6,43 +6,14 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ### Socials
 
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/rishabh-kushwah-a819b4296/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>&nbsp;&nbsp;&nbsp
-  
-  
-  <a href="https://github.com/binarybreez" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>&nbsp;&nbsp;&nbsp
-  
-  
-  <a href="https://hashnode.com/@rishabh-kushwah" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" />
-    </picture>
-  </a>&nbsp;&nbsp;&nbsp
-  
-  
-  <a href="https://x.com/YOUR_USERNAME" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X (Twitter)" />
-    </picture>
-  </a>
-</p>
+### Socials
+
+
+<a href="https://github.com/binarybreez?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/binarybreez.svg?variant=secondary&amp;mode=dark&amp;font=space-grotesk"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/binarybreez.svg?variant=secondary&amp;mode=light&amp;font=space-grotesk"></picture></a> <a href="https://github.com/binarybreez?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/binarybreez.svg?variant=secondary&amp;mode=dark&amp;font=space-grotesk"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/binarybreez.svg?variant=secondary&amp;mode=light&amp;font=space-grotesk"></picture></a> <a href="https://github.com/binarybreez?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-21-2563eb.svg?logo=github&amp;variant=secondary&amp;mode=dark&amp;font=space-grotesk"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-21-2563eb.svg?logo=github&amp;variant=secondary&amp;mode=light&amp;font=space-grotesk"></picture></a>
+
+<a href="https://github.com/binarybreez"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40binarybreez-181717.svg?logo=github&amp;variant=branded&amp;mode=dark&amp;font=space-grotesk"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40binarybreez-181717.svg?logo=github&amp;variant=branded&amp;mode=light&amp;font=space-grotesk"></picture></a> <a href="https://x.com/Rishabh0Kushwah"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/x/follow/Rishabh0Kushwah.svg?variant=branded&amp;mode=dark&amp;font=space-grotesk"><img alt="X Follow" src="https://www.shieldcn.dev/x/follow/Rishabh0Kushwah.svg?variant=branded&amp;mode=light&amp;font=space-grotesk"></picture></a> <a href="https://www.linkedin.com/in/rishabh-kushwah-a819b4296"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/LinkedIn-%40rishabh--kushwah--a819b4296-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;mode=dark&amp;font=space-grotesk"><img alt="LinkedIn" src="https://www.shieldcn.dev/badge/LinkedIn-%40rishabh--kushwah--a819b4296-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;mode=light&amp;font=space-grotesk"></picture></a> <a href="https://hashnode.com/@rishabh"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Mastodon-Mastodon-6364FF.svg?logo=mastodon&amp;variant=branded&amp;mode=dark&amp;font=space-grotesk"><img alt="Mastodon" src="https://www.shieldcn.dev/badge/Mastodon-Mastodon-6364FF.svg?logo=mastodon&amp;variant=branded&amp;mode=light&amp;font=space-grotesk"></picture></a>
+
+---
 
 ---
 
@@ -53,6 +24,13 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ## 🚀 Core Focus & Philosophy
 
+![LangChain](https://shieldcn.dev/badge/LangChain.svg?variant=branded&brand=langchain)
+![Built with Gemini](https://shieldcn.dev/badge/Built%20with-Gemini-8E75B2.svg?logo=googlegemini&logoColor=fff&variant=secondary)
+![AI Powered](https://shieldcn.dev/badge/AI-powered-7C3AED.svg?logo=ri%3ASiOpenai&variant=secondary)
+![RAG Enabled](https://shieldcn.dev/badge/RAG-enabled-0EA5E9.svg?logo=huggingface&variant=secondary)
+![Runs Local Models](https://shieldcn.dev/badge/Runs-local%20models-111111.svg?logo=ollama&variant=secondary)
+![Built by a Human](https://shieldcn.dev/badge/built%20by-a%20human.svg?logo=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)
+
 - 🤖 **Agentic RAG Platforms** — Designing scalable context-aware AI systems that act autonomously on live datasets.
 - ⚡ **Low-Latency Architecture** — Engineering real-time scraping systems (Playwright/Selenium) tightly decoupled from backend execution flows.
 - 🔒 **Security-First Systems** — Hardening application code layers against modern exploits and prompt-injection logic.
@@ -60,6 +38,18 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 ---
 
 ## 🛠️ Technical Stack
+
+![FastAPI](https://shieldcn.dev/badge/FastAPI.svg?variant=branded&brand=fastapi)
+![Django](https://shieldcn.dev/badge/Django.svg?variant=branded&brand=django)
+![Next.js](https://shieldcn.dev/badge/Next.js.svg?variant=branded&brand=nextdotjs)
+![React](https://shieldcn.dev/badge/React.svg?variant=branded&brand=react)
+![Supabase](https://shieldcn.dev/badge/Supabase.svg?variant=branded&brand=supabase)
+![Prisma](https://shieldcn.dev/badge/Prisma.svg?variant=branded&brand=prisma)
+![Drizzle](https://shieldcn.dev/badge/Drizzle.svg?variant=branded&brand=drizzle)
+![MySQL](https://shieldcn.dev/badge/MySQL.svg?variant=branded&brand=mysql)
+![Redis](https://shieldcn.dev/badge/Redis.svg?variant=branded&brand=redis)
+![MongoDB](https://shieldcn.dev/badge/MongoDB.svg?variant=branded&brand=mongodb)
+![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL.svg?variant=branded&brand=postgresql)
 
 - **AI & RAG:** Graph RAG | HuggingFace Models | Gemini API Core Interfaces | Vector Embeddings
 - **Full-Stack Ecosystem:** Next.js | React | FastAPI (Python) | Monorepo Environments (Turborepo)
