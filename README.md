@@ -74,8 +74,8 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 - [binarybreez/onelogs-next](https://github.com/binarybreez/onelogs-next) - 
 - [binarybreez/portfolio](https://github.com/binarybreez/portfolio) - 
 - [binarybreez/prayatna3.0](https://github.com/binarybreez/prayatna3.0) - 
-- [binarybreez/technexNMIMS](https://github.com/binarybreez/technexNMIMS) - Repository for the technex .execute hackathon by team BinaryBreez.
 - [binarybreez/Remotion-Video](https://github.com/binarybreez/Remotion-Video) - 
+- [binarybreez/Binary-Breez](https://github.com/binarybreez/Binary-Breez) - SnowHacks CDGI
 ### 🌱 My latest projects
 
 - [binarybreez/onelogs-next](https://github.com/binarybreez/onelogs-next) - 
