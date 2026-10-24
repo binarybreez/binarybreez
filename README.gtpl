@@ -70,11 +70,11 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 ---
 
 ### 👷 Check out what I'm currently working on
-{{ range recentContributions 5 }}
+{{ range recentContributions 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 ### 🌱 My latest projects
-{{ range recentRepos 5 }}
+{{ range recentRepos 3 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 ### 🔨 My recent Pull Requests
@@ -82,7 +82,7 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 ### ⭐ Recent Stars
-{{ range recentStars 5 }}
+{{ range recentStars 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
