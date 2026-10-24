@@ -1,11 +1,15 @@
-<img alt="Rishabh Kushwah"
-src="https://shieldcn.dev/header/glow.svg?title=Rishabh+Kushwah&subtitle=Binary+Breez&size=wide&mode=dark&border=false&image=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1614850523459-c2f4c699c52e%3Fw%3D1600%26q%3D70%26fit%3Dcrop%26fm%3Djpg&brand=Binary+Breez">
+<div align="center">
 
-<h1 align="center">Hi, I'm Rishabh — Full-Stack AI & Security Engineer </h1>
+<img alt="Rishabh Kushwah, binarybreez, Team Lead of Binary Breez"
+src="https://shieldcn.dev/header/glow.svg?title=Rishabh+Kushwah&subtitle=Team+Lead+%7C+Binary+Breez&size=wide&mode=dark&border=false&image=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1614850523459-c2f4c699c52e%3Fw%3D1600%26q%3D70%26fit%3Dcrop%26fm%3Djpg&brand=Binary+Breez">
 
-<p align="center">
-Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backend Architecture | Cyber Forensics
+<h3>I lead Binary Breez. We build and ship.</h3>
+
+<p>
+14+ hackathons | AI | Backend | Security
 </p>
+
+</div>
 
 ### Socials
 
