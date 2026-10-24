@@ -71,18 +71,14 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 
 ### 👷 Check out what I'm currently working on
 
-- [binarybreez/onelogs-next](https://github.com/binarybreez/onelogs-next) - 
+- [binarybreez/OneLogs](https://github.com/binarybreez/OneLogs) - One Log SDK is a lightweight application monitoring and logging library designed to make it easier for developers to collect, process, and observe application logs in real time.
 - [binarybreez/portfolio](https://github.com/binarybreez/portfolio) - 
 - [binarybreez/prayatna3.0](https://github.com/binarybreez/prayatna3.0) - 
-- [binarybreez/Remotion-Video](https://github.com/binarybreez/Remotion-Video) - 
-- [binarybreez/Binary-Breez](https://github.com/binarybreez/Binary-Breez) - SnowHacks CDGI
 ### 🌱 My latest projects
 
-- [binarybreez/onelogs-next](https://github.com/binarybreez/onelogs-next) - 
+- [binarybreez/OneLogs](https://github.com/binarybreez/OneLogs) - One Log SDK is a lightweight application monitoring and logging library designed to make it easier for developers to collect, process, and observe application logs in real time.
 - [binarybreez/portfolio](https://github.com/binarybreez/portfolio) - 
 - [binarybreez/prayatna3.0](https://github.com/binarybreez/prayatna3.0) - 
-- [binarybreez/technexNMIMS](https://github.com/binarybreez/technexNMIMS) - Repository for the technex .execute hackathon by team BinaryBreez.
-- [binarybreez/Remotion-Video](https://github.com/binarybreez/Remotion-Video) - 
 ### 🔨 My recent Pull Requests
 
 ### ⭐ Recent Stars
@@ -90,20 +86,12 @@ Engineering Lead (12+ Hackathons) | RAG Systems | Web Scraping Pipelines | Backe
 - [binarybreez/binarybreez](https://github.com/binarybreez/binarybreez) - 
 - [binarybreez/Job_tinder](https://github.com/binarybreez/Job_tinder) - 
 - [binarybreez/nabhaApp](https://github.com/binarybreez/nabhaApp) - 
-- [binarybreez/RecommendationEngine](https://github.com/binarybreez/RecommendationEngine) - 
-- [binarybreez/hiddenWords](https://github.com/binarybreez/hiddenWords) - Anonymous Feedback allows users to receive anonymous messages through a unique URL, with AI-powered suggestions and secure login via email OTP and encrypted passwords.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binarybreez/binarybreez/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binarybreez/binarybreez/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/binarybreez/binarybreez/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-
-
-## ✍️ Technical Writing
-* **Coming Soon:** Deep-dives exploring production RAG performance bottlenecks, automated scraping bypass strategies, and multi-tier backend reliability metrics.
-
----
 
 <p align="center">
   <i>Building systems that work in real-world conditions — not just demos.</i>
